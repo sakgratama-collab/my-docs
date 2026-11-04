@@ -1,4 +1,4 @@
-# \# my-docs
+# # my-docs
 
 # 
 
@@ -6,9 +6,9 @@
 
 # 
 
-# \- 在线网站:https://sakgratama-collab.github.io/my-docs/
+# - 在线网站:https://sakgratama-collab.github.io/my-docs/
 
-# \- \[个人实验报告](report/README.md)
+# - [个人实验报告](report/README.md)
 
-# \- 本地预览:`python -m mkdocs serve`(需先安装 requirements.txt 依赖)
+# - 本地预览:`python -m mkdocs serve`(需先安装 requirements.txt 依赖)
 
