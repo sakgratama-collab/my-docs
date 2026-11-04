@@ -1,4 +1,4 @@
-\# 我的技术文档
+# 我的技术文档
 
 
 
@@ -6,15 +6,15 @@
 
 
 
-\- 作者：sakgratama-collab
+- 作者：sakgratama-collab
 
-\- 实践主题：静态文档自动部署
+- 实践主题：静态文档自动部署
 
-\- \[关于本项目](about.md)
+- [关于本项目](about.md)
 
-\- \[使用指南](guide.md)
+- [使用指南](guide.md)
 
-\- \[API 参考](api.md)
+- [API 参考](api.md)
 
 
 
